@@ -1,1 +1,2 @@
-hello this is me first odin text file
+hello odin
+hello this is my first odin text file
